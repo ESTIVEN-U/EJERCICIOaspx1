@@ -47,6 +47,7 @@ namespace EJERCICIOSASP3_2_
         protected void btnBack_Click(object sender, EventArgs e)
         {
             Response.Redirect("WebForm1.aspx");
+            // nestor guapo 
         }
     }
 }
